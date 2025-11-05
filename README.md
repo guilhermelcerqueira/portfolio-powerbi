@@ -23,7 +23,8 @@ Dashboard criado para acompanhar **notas fiscais executadas x planejadas**, com 
 ✅ Filtros dinâmicos (projeto, tipo, filial)  
 ✅ Estrutura pronta para automação com ETL externo  
 
-🎥 **GIF da prévia:** 
+🎥 **GIF da prévia:**
+
 <img src="https://github.com/user-attachments/assets/50811eb6-c2d8-4083-9f1b-17869c3c4bdc" width="600px">
 
 ---
@@ -44,6 +45,7 @@ Dashboard desenvolvido para acompanhamento de **metas, vendas, comissionamento e
 ✅ Separação executiva, regional, analítica e individual  
 
 🎥 **GIF da prévia:**
+
 <img src="https://github.com/user-attachments/assets/90ccd8e9-faaf-4dd6-8801-c158d91bd0dc" width="600px">
 
 ---
