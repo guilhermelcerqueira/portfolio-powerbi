@@ -43,7 +43,7 @@ Dashboard desenvolvido para acompanhamento de **metas, vendas, comissionamento e
 ✅ Layout visual com SVG e indicadores customizados  
 ✅ Separação executiva, regional, analítica e individual  
 
-🎥 **GIF da prévia:**  
+🎥 **GIF da prévia:**
 <img src="https://github.com/user-attachments/assets/90ccd8e9-faaf-4dd6-8801-c158d91bd0dc" width="600px">
 
 ---
